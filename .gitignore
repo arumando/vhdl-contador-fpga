@@ -1,0 +1,22 @@
+# Archivos generados por Xilinx Vivado (se pueden regenerar)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.wdb
+*.pb
+webtalk*
+
+# Editores y sistema operativo
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
